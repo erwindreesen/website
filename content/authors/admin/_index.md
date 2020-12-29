@@ -19,6 +19,7 @@ bio: ...
 # Interests to show in About widget
 interests:
 - Pharmacometrics
+- Clinical pharmacology
 - Model-informed precision dosing
 - Monoclonal antibodies, antimicrobials
 
