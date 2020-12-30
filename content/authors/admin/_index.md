@@ -26,15 +26,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in Pharmaceutical and Pharmacological Sciences
+    institution: KU Leuven
+    year: 2019
+  - course: Master of Science｜Pharmaceutical Care
+    institution: KU Leuven
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: Master of Biomedical Sciences｜Research
+    institution: KU Leuven
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
